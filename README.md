@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Ludeva.github.io
+https://GITHUB-USERNAME.github.io/rsschool-cv/
