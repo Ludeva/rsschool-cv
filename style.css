@@ -1,0 +1,15 @@
+
+    .round {
+     border-radius: 700px; 
+     box-shadow: 0 0 0 3px rgb(207, 10, 184), 0 0 13px #333; 
+    }
+    
+    .child {
+        position: absolute;
+        left: 50%;
+        top: 0%;
+        transform: translate(-50%, -50%); 
+      }
+      .logo {
+        margin-left: 250px;
+      }
