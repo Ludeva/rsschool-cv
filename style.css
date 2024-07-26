@@ -29,3 +29,23 @@
     .big {
         font-size: x-large;
     }
+   .child2 {
+    position: absolute;
+        left: 60%;
+        top: 40%;
+        transform: translate(-50%, -50%);
+   }
+   .child3 {
+    position: absolute;
+    left: 54%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+   }
+   .child4 {
+    position: absolute;
+    left: 42.5%;
+    top: 75%;
+    transform: translate(-50%, -50%);
+    
+
+   }
