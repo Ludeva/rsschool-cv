@@ -15,4 +15,3 @@ I hope this will help me become a Front-end developer
 - Polotsk State University. Spesiality: Accounting analysis and audit.
 
 ## english
-- A1
