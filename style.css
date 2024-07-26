@@ -13,3 +13,11 @@
       .logo {
         margin-left: 250px;
       }
+
+    .pover {
+        font-size: large;
+        font-style: italic;
+
+        color: blue
+        
+      }
