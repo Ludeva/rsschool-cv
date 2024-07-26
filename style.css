@@ -11,6 +11,8 @@
         transform: translate(-50%, -50%); 
       }
       .logo {
+        border-radius: 700px; 
+     box-shadow: 0 0 0 3px rgb(207, 10, 184), 0 0 13px #333;
         margin-left: 250px;
       }
 
@@ -21,3 +23,6 @@
         color: blue
         
       }
+    .right {
+        margin-left: 250px;
+    }
